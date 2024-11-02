@@ -1,6 +1,6 @@
 # Interactive Image Gallery
 
-![Screenshot 2024-11-03 001452](https://github.com/user-attachments/assets/36524d88-b8a3-4d79-b7c9-b95b22cb1d5d)
+![Screenshot 2024-11-03 002842](https://github.com/user-attachments/assets/30e852ad-da38-4ab5-9936-b54809ded595)
 
 An immersive and stylish image gallery that allows users to browse through images with smooth 3D transitions and view each image in a fullscreen modal. This project is built using **HTML**, **CSS**, and **JavaScript** and provides a visually engaging way to present image collections.
 
