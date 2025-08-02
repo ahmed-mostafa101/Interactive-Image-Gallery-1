@@ -9,6 +9,6 @@ An immersive and stylish image gallery that allows users to browse through image
 - **3D Carousel Animation**: Images are arranged in a 3D carousel, giving depth and a sleek, rotating effect for easy navigation.
 - **Fullscreen Modal View**: Clicking on an image opens it in a modal with a fullscreen overlay, making it easy to view details.
 - **Next and Previous Controls**: Users can cycle through images using "Next" and "Prev" buttons, allowing seamless browsing.
-- **Accessible Design**: ARIA labels and semantic elements are used for accessibility, ensuring compatibility with screen readers.
+- **Accessible Design**: ARIA labels and semantic elements are used for accessibility, ensuring compatibility with screen readers. 
 
 
